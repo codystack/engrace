@@ -4,19 +4,18 @@ include "./components/navbar.php";
 ?>
 
     <main>
-      <!-- Hero area S t a r t-->
       <section class="hero-area">
         <div class="single-slider hero-padding">
           <div class="container">
             <div class="row justify-content-between">
               <div class="col-xxl-6 col-xl-6 col-lg-6 my-auto">
                 <div class="hero-caption-one mb-20">
-                  <h4 class="key-title font-700 mb-20 wow fadeInUp" data-wow-delay="0.0s">Speak Hope for the Homeless</h4>
-                  <h1 class="title font-700 wow fadeInUp" data-wow-delay="0.1s">Donate to children & senior citizens</h1>
-                  <p class="pera wow fadeInUp" data-wow-delay="0.3s">Involves donating one's body after death for medical research, education, or anatomical dissection. Body donation plays a crucial role in advancing medical science</p>
+                  <h4 class="key-title font-700 mb-20 wow fadeInUp" data-wow-delay="0.0s">EARLY DETECTION SAVES LIVES</h4>
+                  <h1 class="title font-700 wow fadeInUp" data-wow-delay="0.1s">Together, we can overcome this.</h1>
+                  <p class="pera wow fadeInUp" data-wow-delay="0.3s">A movement without an impact, isn't doing enough for its cause; that's why we can't quit this fight”. Partner with us, to win the war against breast cancer in Africa.</p>
                   <div class="d-flex gap-20 flex-wrap">
-                    <a href="donation.html" class="btn-primary-fill hero-btn wow fadeInLeft" data-wow-delay="0.4s">Donate Now</a>
-                    <a href="volunteer.html" class="btn-tertiary-fill hero-btn wow fadeInRight" data-wow-delay="0.4s">Join Volunteers</a>
+                    <a href="donate" class="btn-primary-fill hero-btn wow fadeInLeft" data-wow-delay="0.4s">Donate  <i class="ri-service-fill" style="top: 0px"></i></a>
+                    <a href="volunteer" class="btn-tertiary-fill hero-btn wow fadeInRight" data-wow-delay="0.4s">Become a Volunteer</a>
                   </div>
                 </div>
               </div>
@@ -27,25 +26,16 @@ include "./components/navbar.php";
                   </div>
                   <div class="hero-count-section flex flex-column gap-60">
                     <div class="hero-count wow fadeInUp" data-wow-delay="0.0s">
-                      <h4 class="title">12+</h4>
-                      <p class="pera">
-                        Years of <br>
-                        Experience
-                      </p>
+                      <h4 class="title">1m+</h4>
+                      <p class="pera">Persons reached<br> via our campaign.</p>
                     </div>
                     <div class="hero-count wow fadeInUp" data-wow-delay="0.2s">
-                      <h4 class="title">140+</h4>
-                      <p class="pera">
-                        Thousands <br>
-                        volunteers
-                      </p>
+                      <h4 class="title">20k+</h4>
+                      <p class="pera">women have been<br> screened for free.</p>
                     </div>
                     <div class="hero-count  wow fadeInUp" data-wow-delay="0.3s">
-                      <h4 class="title">500+</h4>
-                      <p class="pera">
-                        Worid wide <br>
-                        Offices
-                      </p>
+                      <h4 class="title">24+</h4>
+                      <p class="pera">locations in 5 states<br> for free screening.</p>
                     </div>
                   </div>
                 </div>
@@ -54,7 +44,6 @@ include "./components/navbar.php";
           </div>
         </div>
       </section>
-      <!-- End-of Hero-->
 
       <!-- helpful area S t a r t-->
       <section class="helpful-area">

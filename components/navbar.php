@@ -37,7 +37,7 @@
                             
                                 <div class="header-right">
                                     <div class="cart">
-                                        <a href="donate" class="btn-primary-fill pill-btn">Donate Now</a>
+                                        <a href="donate" class="btn-primary-fill pill-btn">Donate <i class="ri-service-fill" style="top: 0px"></i></a>
                                     </div>
                                 </div>
                             </div>
